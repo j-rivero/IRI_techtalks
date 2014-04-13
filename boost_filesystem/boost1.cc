@@ -1,3 +1,10 @@
+/*
+ * Code to demo shown features of boost filesystem
+ *
+ * Jose Luis Rivero 
+ * jrivero@osrfoundation.org
+ */
+
 #include <boost/filesystem.hpp>
 #include <iostream>
 
